@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-mozno succes
-=======
-monzo sa podari rebase
->>>>>>> snazim sa urobit conflikt
+UNSUCCESFULL
 another first one
 
 third row
