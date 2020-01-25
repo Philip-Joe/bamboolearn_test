@@ -1,4 +1,4 @@
-tu je neuspesny riadok
+i sucesfully get new row
 another first one
 
 third row
